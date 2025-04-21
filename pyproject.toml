@@ -1,0 +1,10 @@
+[project]
+name = "mcp-server-s3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.37.37",
+    "mcp[cli]>=1.6.0",
+]

@@ -1,0 +1,9 @@
+{
+    "pythonServers": [
+        {
+            "name": "mcp_s3",
+            "priority": 3,
+            "executionPreference": "PRE"
+        }
+    ]
+}
