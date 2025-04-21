@@ -7,4 +7,5 @@ requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.37.37",
     "mcp[cli]>=1.6.0",
+    "rapidfuzz>=3.13.0",
 ]
