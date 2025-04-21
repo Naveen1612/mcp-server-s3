@@ -1,6 +1,5 @@
 import boto3
 from typing import Any
-import httpx  # TODO remove this before committing
 from rapidfuzz import process
 from mcp.server.fastmcp import FastMCP
 

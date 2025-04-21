@@ -6,7 +6,7 @@
             "command": "uv",
             "args": [
                 "run",
-                "/Users/naveenyadav/work/self_proj/mcp-server-s3/mcp_s3/mcp_s3.py"
+                "/Users/naveenyadav/work/self_proj/mcp-server-s3/mcp_s3.py"
             ]
         }
     }
